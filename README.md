@@ -1,1 +1,1 @@
-Datavisualisation with Matplotlib an Seaborn
+Datavisualisation avec Matplotlib et Seaborn
